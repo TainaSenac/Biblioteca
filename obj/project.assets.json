@@ -845,19 +845,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Marcia\\.nuget\\packages\\": {}
+    "C:\\Users\\samue\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Marcia\\Desktop\\Biblioteca\\Biblioteca.csproj",
+      "projectUniqueName": "C:\\Users\\samue\\OneDrive\\Área de Trabalho\\Biblioteca\\Biblioteca.csproj",
       "projectName": "Biblioteca",
-      "projectPath": "C:\\Users\\Marcia\\Desktop\\Biblioteca\\Biblioteca.csproj",
-      "packagesPath": "C:\\Users\\Marcia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Marcia\\Desktop\\Biblioteca\\obj\\",
+      "projectPath": "C:\\Users\\samue\\OneDrive\\Área de Trabalho\\Biblioteca\\Biblioteca.csproj",
+      "packagesPath": "C:\\Users\\samue\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\samue\\OneDrive\\Área de Trabalho\\Biblioteca\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Marcia\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\samue\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -908,7 +908,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.415\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.116\\RuntimeIdentifierGraph.json"
       }
     }
   }
